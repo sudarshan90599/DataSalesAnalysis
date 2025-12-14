@@ -23,14 +23,14 @@ Power BI – Data modeling, visualization, and dashboard creation
 **Dataset Description**
 
 The dataset contains historical sales transaction data with the following fields:
-Order Date
-Customer Name
-Region
-Category & Sub-Category
-Product Name
-Sales
-Quantity
-Profit
+Order Date,
+Customer Name,
+Region,
+Category & Sub-Category,
+Product Name,
+Sales,
+Quantity,
+Profit,
 The dataset was cleaned and transformed before analysis to ensure accuracy and consistency.
 
 **Project Workflow**
@@ -45,22 +45,22 @@ Created derived columns such as Year, Month, and Profit Margin
 
 **SQL Data Analysis**
 
-Calculated total revenue and profit
-Analyzed sales by region, category, and product
-Identified top-performing and low-performing products
-Evaluated monthly and yearly sales trends
-Data Visualization in Power BI
-Built an interactive dashboard
-Designed KPI cards, charts, and filters
+Calculated total revenue and profit,
+Analyzed sales by region, category, and product,
+Identified top-performing and low-performing products,
+Evaluated monthly and yearly sales trends,
+Data Visualization in Power BI,
+Built an interactive dashboard,
+Designed KPI cards, charts, and filters,
 Enabled dynamic analysis by year, region, and category
 
 **Key KPIs**
 
-Total Revenue
-Total Profit
-Profit Margin (%)
-Total Orders
-Average Order Value
+Total Revenue,
+Total Profit,
+Profit Margin (%),
+Total Orders,
+Average Order Value,
 
 **Dashboard Features**
 

@@ -15,7 +15,9 @@ Support data-driven decision-making through interactive dashboards
 **Tools & Technologies Used**
 
 SQL – Data querying and aggregation
+
 Microsoft Excel – Data cleaning and preprocessing
+
 Power BI – Data modeling, visualization, and dashboard creation
 
 **Dataset Description**

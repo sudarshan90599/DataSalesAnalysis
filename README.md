@@ -75,10 +75,3 @@ Certain regions contribute a significantly higher share of total revenue
 A small group of top products generates a large portion of sales
 Sales show seasonal trends with peak performance during specific months
 Some categories have high sales but lower profit margins
-
-**Business Impact**
-The dashboard helps decision-makers:
-Identify high-profit regions and products
-Optimize product and category strategies
-Monitor revenue trends and seasonal patterns
-Improve overall sales and profitability planning
